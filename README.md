@@ -1,5 +1,5 @@
 # Excel_Vindra_Store_Analysis
-Download the dataset from here.
+"C:\Users\Vaishnavi Daule\Downloads\Vrinda Store Data Analysis.xlsx"
 
 ## Objective 🎯 :
 At Vindra Store, mission is crystal clear: aim to create an Annual Sales Report for 2022 that not only reveals insights into our customers but also sets the stage for unprecedented sales growth in 2023 and beyond.
